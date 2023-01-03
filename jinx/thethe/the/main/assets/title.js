@@ -1,25 +1,28 @@
-if (document.addEventListener) { 
-    document.addEventListener("DOMContentLoaded", function() {
-        loaded();
-    });
-} else if (document.attachEvent) {
-    document.attachEvent("onreadystatechange", function() {
-        loaded();
-    });
-}
+var i=0;
+setInterval(function(){
+    var titles=[
+"conjuring",
+"conjurin",
+"conjuri",
+"conjur",
+"conju",
+"conj",
+"con",
+"co",
+"c",
+"co",
+"con",
+"conj",
+"conju",
+"conjur",
+"conjuri",
+"conjurin",
+"conjuring"
+]
 
-function loaded() {
-
-    setInterval(loop, 800);
-
-}
-
-var x = 0;
-
-var titleText = ["i","<3","meevin!"];
-
-function loop() {
-
-    document.getElementsByTagName("title")[0].innerHTML = titleText[x++%titleText.length];
-
-}
+    if(i===titles.length) {
+        i=0;
+    }
+    document.title = titles[i];
+    i++;
+}, 500);
