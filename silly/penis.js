@@ -6,7 +6,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("pornhub.com");
+        window.location.assign('http://www.pornhub.com')
         window.close();
     }, 1);
   }
@@ -15,7 +15,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("pornhub.com");
+        window.location.assign('http://www.pornhub.com')
         window.close();
     }, 1);
   }console.time
@@ -23,7 +23,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("pornhub.com");
+        window.location.assign('http://www.pornhub.com')
         window.close();
     }, 1);
   }
@@ -31,7 +31,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("pornhub.com");
+        window.location.assign('http://www.pornhub.com')
         window.close();
     }, 1);
   }
@@ -39,7 +39,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("pornhub.com");
+        window.location.assign('http://www.pornhub.com')
         window.close();
     }, 1);
   }
@@ -47,7 +47,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("pornhub.com");
+        window.location.assign('http://www.pornhub.com')
         window.close();
     }, 1);
   }
