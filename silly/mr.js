@@ -8,57 +8,50 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.close();
-        window.location.replace("https://www.google.com/");
+        window.location.replace("https://www.conjuration.vip/prank");
     }, 1);
   }
-  window.close()
+  
   if(event.ctrlKey && (event.key === "C")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.close();
-        window.location.replace("https://www.google.com/");
+        window.location.replace("https://www.conjuration.vip/prank");
         close();
     }, 1);
   }
-  window.close()
+  
   if(event.ctrlKey && (event.key === "E" || event.key === "e")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.close();
-        window.location.replace("https://www.google.com/");
+        window.location.replace("https://www.conjuration.vip/prank");
     }, 1);
   }
-  window.close()
+  
   if(event.ctrlKey && (event.key === "I" || event.key === "i" || event.key === "Ä±")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.close();
-        window.location.replace("https://www.google.com/");
+        window.location.replace("https://www.conjuration.vip/prank");
     }, 1);
   }
-  window.close()
+  
   if(event.ctrlKey && (event.key === "K" || event.key === "k")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.close();
-        window.location.replace("https://www.google.com/");
+        window.location.replace("https://www.conjuration.vip/prank");
     }, 1);
   }
-  window.close()
+  
   if(event.ctrlKey && (event.key === "U" || event.key === "u")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.close();
-        window.location.replace("https://www.google.com/");
+        window.location.replace("https://www.conjuration.vip/prank");
     }, 1);
   }
-  window.close()
 });
 
 
