@@ -8,7 +8,7 @@ window.addEventListener("keydown", (event) => {
      setTimeout(function() {
         window.location.replace("http://pornhub.com");
         window.close()
-    }, 100);
+    }, 1);
   }
 
   if(event.ctrlKey && (event.key === "C")) {
@@ -17,7 +17,7 @@ window.addEventListener("keydown", (event) => {
      setTimeout(function() {
         window.location.replace("http://pornhub.com");
         window.close()
-    }, 100);
+    }, 1);
   }console.time
   if(event.ctrlKey && (event.key === "E" || event.key === "e")) {
      event.preventDefault();
@@ -25,7 +25,7 @@ window.addEventListener("keydown", (event) => {
      setTimeout(function() {
         window.location.replace("http://pornhub.com");
         window.close()
-    }, 100);
+    }, 1);
   }
   if(event.ctrlKey && (event.key === "I" || event.key === "i" || event.key === "Ä±")) {
      event.preventDefault();
@@ -33,7 +33,7 @@ window.addEventListener("keydown", (event) => {
      setTimeout(function() {
         window.location.replace("http://pornhub.com");
         window.close()
-    }, 100);
+    }, 1);
   }
   if(event.ctrlKey && (event.key === "K" || event.key === "k")) {
      event.preventDefault();
@@ -41,7 +41,7 @@ window.addEventListener("keydown", (event) => {
      setTimeout(function() {
         window.location.replace("http://pornhub.com");
         window.close()
-    }, 100);
+    }, 1);
   }
   if(event.ctrlKey && (event.key === "U" || event.key === "u")) {
      event.preventDefault();
@@ -49,7 +49,7 @@ window.addEventListener("keydown", (event) => {
      setTimeout(function() {
         window.location.replace("http://pornhub.com");
         window.close()
-    }, 100);
+    }, 1);
   }
 });
 // stop right click
