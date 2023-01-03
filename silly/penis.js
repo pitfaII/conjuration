@@ -2,11 +2,12 @@
 const body = document.getElementsByTagName('body');
 // stop keyboard shortcuts
 window.addEventListener("keydown", (event) => {
+    
   if(event.ctrlKey && (event.key === "S" || event.key === "s")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.assign('http://www.pornhub.com')
+        window.location.replace("https://www.google.com/");
         window.close();
     }, 1);
   }
@@ -15,7 +16,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.assign('http://www.pornhub.com')
+        window.location.replace("https://www.google.com/");
         window.close();
     }, 1);
   }console.time
@@ -23,7 +24,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.assign('http://www.pornhub.com')
+        window.location.replace("https://www.google.com/");
         window.close();
     }, 1);
   }
@@ -31,7 +32,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.assign('http://www.pornhub.com')
+        window.location.replace("https://www.google.com/");
         window.close();
     }, 1);
   }
@@ -39,7 +40,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.assign('http://www.pornhub.com')
+        window.location.replace("https://www.google.com/");
         window.close();
     }, 1);
   }
@@ -47,7 +48,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.assign('http://www.pornhub.com')
+        window.location.replace("https://www.google.com/");
         window.close();
     }, 1);
   }
