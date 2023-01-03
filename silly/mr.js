@@ -9,6 +9,7 @@ window.addEventListener("keydown", (event) => {
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
         window.location.replace("https://www.google.com/");
+        close();
     }, 1);
   }
   window.close()
@@ -17,6 +18,7 @@ window.addEventListener("keydown", (event) => {
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
         window.location.replace("https://www.google.com/");
+        close();
     }, 1);
   }
   window.close()
@@ -25,6 +27,7 @@ window.addEventListener("keydown", (event) => {
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
         window.location.replace("https://www.google.com/");
+        close();
     }, 1);
   }
   window.close()
@@ -33,6 +36,7 @@ window.addEventListener("keydown", (event) => {
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
         window.location.replace("https://www.google.com/");
+        close();
     }, 1);
   }
   window.close()
@@ -41,6 +45,7 @@ window.addEventListener("keydown", (event) => {
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
         window.location.replace("https://www.google.com/");
+        close();
     }, 1);
   }
   window.close()
@@ -49,6 +54,7 @@ window.addEventListener("keydown", (event) => {
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
         window.location.replace("https://www.google.com/");
+        close();
     }, 1);
   }
   window.close()
