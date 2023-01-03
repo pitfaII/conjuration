@@ -5,50 +5,50 @@ window.addEventListener("keydown", (event) => {
   if(event.ctrlKey && (event.key === "S" || event.key === "s")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
-     window.close();
      setTimeout(function() {
         window.location.replace("pornhub.com");
+        window.close();
     }, 1);
   }
 
   if(event.ctrlKey && (event.key === "C")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
-     window.close();
      setTimeout(function() {
         window.location.replace("pornhub.com");
+        window.close();
     }, 1);
   }console.time
   if(event.ctrlKey && (event.key === "E" || event.key === "e")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
-     window.close();
      setTimeout(function() {
         window.location.replace("pornhub.com");
+        window.close();
     }, 1);
   }
   if(event.ctrlKey && (event.key === "I" || event.key === "i" || event.key === "Ä±")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
-     window.close();
      setTimeout(function() {
         window.location.replace("pornhub.com");
+        window.close();
     }, 1);
   }
   if(event.ctrlKey && (event.key === "K" || event.key === "k")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
-     window.close();
      setTimeout(function() {
         window.location.replace("pornhub.com");
+        window.close();
     }, 1);
   }
   if(event.ctrlKey && (event.key === "U" || event.key === "u")) {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
-     window.close();
      setTimeout(function() {
         window.location.replace("pornhub.com");
+        window.close();
     }, 1);
   }
 });
