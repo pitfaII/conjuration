@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>penis.skin | write</title>
+<link rel="stylesheet" href="/write/write.css">
+</head>
+<body>
+<div class="pagecontainer">
+<div class="titlecontainer">
+<p class="titletext"><a href="/" class="titlelink">penis.skin</a></p>
+<div class="right-links-container">
+<p class="righttitletext"><a href="/logout/" class="titlelink">Logout</a></p>
+</div>
+</div>
+<div class="userinputarea">
+<form method="POST" action="/write/">
+<div class="welcomecontainer">
+<p class="welcome">You are logged in as: <p class=name>bazooka</p></p>
+</div>
+<textarea class="skinnbox" name="content" placeholder="Write a Skinn here (Max 30KB)" maxlength="30000" required></textarea>
+<input name="access_password" type="text" class="passwordbox" placeholder="Access Password (Leave Blank For None)" autocomplete="off">
+<input name="time_delay" type="number" class="passwordbox" placeholder="Document Unlock Timestamp Unix Secs (Leave Blank For None)" autocomplete="off">
+<input type="submit" value="Save" class="savebutton" autocomplete="off" required>
+</form>
+</div>
+</div>
+</body>
+</html>
