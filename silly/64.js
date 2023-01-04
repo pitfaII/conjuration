@@ -8,7 +8,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("https://www.conjuration.vip/prank");
+        window.close()
     }, 1);
   }
   
@@ -16,7 +16,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("https://www.conjuration.vip/prank");
+        window.close()
         close();
     }, 1);
   }
@@ -25,7 +25,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("https://www.conjuration.vip/prank");
+        window.close()
     }, 1);
   }
   
@@ -33,7 +33,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("https://www.conjuration.vip/prank");
+        window.close()
     }, 1);
   }
   
@@ -41,7 +41,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("https://www.conjuration.vip/prank");
+        window.close()
     }, 1);
   }
   
@@ -49,7 +49,7 @@ window.addEventListener("keydown", (event) => {
      event.preventDefault();
      body[0].innerHTML = "nice try retrad <3 - bazooka :3";
      setTimeout(function() {
-        window.location.replace("https://www.conjuration.vip/prank");
+        window.close()
     }, 1);
   }
 });
