@@ -12,41 +12,14 @@
         opacity: 0;
     }
 }
-@-moz-keyframes blink {
-    0% {
-        opacity: 1;
-    }
-    49% {
-        opacity: 1;
-    }
-    50% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 0;
-    }
-}
-@-o-keyframes blink {
-    0% {
-        opacity: 1;
-    }
-    49% {
-        opacity: 1;
-    }
-    50% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 0;
-    }
-}
+
 img {
     -webkit-animation: blink 5s;
     -webkit-animation-iteration-count: infinite;
-    -moz-animation: blink 1s;
-    -moz-animation-iteration-count: infinite;
-    -o-animation: blink 1s;
-    -o-animation-iteration-count: infinite;
+    -webkit-animation: blink 1s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation: blink 1s;
+    -webkit-animation-iteration-count: infinite;
 }
 
 
