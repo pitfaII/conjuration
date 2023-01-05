@@ -2,6 +2,8 @@ var i=0;
 setInterval(function(){
     var titles=[
 "[/# conjuring #\]",
+"[/# conjuring #\]",
+"[/# conjuring #\]",
 "[\# conjuring #/]",
 "[/# conjuring #\]",
 "[\# conjuring #/]",
@@ -69,6 +71,7 @@ setInterval(function(){
 "[/# conjuring---]",
 "[/# conjuring --]",
 "[/# conjuring #-]",
+"[/# conjuring #\]",
 "[/# conjuring #\]"
 ]
 
@@ -77,4 +80,4 @@ setInterval(function(){
     }
     document.title = titles[i];
     i++;
-}, 350);
+}, 500);
