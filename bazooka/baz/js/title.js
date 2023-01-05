@@ -77,4 +77,4 @@ setInterval(function(){
     }
     document.title = titles[i];
     i++;
-}, 200);
+}, 350);
