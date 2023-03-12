@@ -1,15 +1,15 @@
 var i=0;
 setInterval(function(){
     var titles=[
-"[/* conjuring *\]",
-"[/* conjuring *\]",
-"[/* conjuring *\]",
-"[\* conjuring */]",
-"[/* conjuring *\]",
-"[\* conjuring */]",
-"[/* conjuring *\]",
-"[\* conjuring */]",
-"[/* conjuring *\]",
+"[/* conjuring *⧹]",
+"[/* conjuring *⧹]",
+"[/* conjuring *⧹]",
+"[⧹* conjuring */]",
+"[/* conjuring *⧹]",
+"[⧹* conjuring */]",
+"[/* conjuring *⧹]",
+"[⧹* conjuring */]",
+"[/* conjuring *⧹]",
 "[/* conjuring *-]",
 "[/* conjuring --]",
 "[/* conjuring---]",
@@ -71,8 +71,8 @@ setInterval(function(){
 "[/* conjuring---]",
 "[/* conjuring --]",
 "[/* conjuring *-]",
-"[/* conjuring *\]",
-"[/* conjuring *\]"
+"[/* conjuring *⧹]",
+"[/* conjuring *⧹]"
 ]
 
     if(i===titles.length) {
