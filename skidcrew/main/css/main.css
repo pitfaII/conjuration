@@ -135,8 +135,6 @@
     }
   body{
       margin: 0;
-      padding: 0;
-      background-video: url(Dogs.mp4);
       background-size: cover;
   }
   .rain{
