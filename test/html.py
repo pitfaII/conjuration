@@ -1,3 +1,8 @@
-import requests
+import undetected_chromedriver as uc
+from selenium import webdriver
 
-print(requests.get('https://skidcrew.xyz/discord/').text)
+options = webdriver.ChromeOptions() 
+driver = uc.Chrome(options=options)
+driver.get('https://blunt.tk')
+input()
+print(driver.page_source)
