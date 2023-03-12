@@ -3,6 +3,6 @@ from selenium import webdriver
 
 options = webdriver.ChromeOptions() 
 driver = uc.Chrome(options=options)
-driver.get('https://blunt.tk')
+driver.get('https://skidcrew.lol')
 input()
 print(driver.page_source)
