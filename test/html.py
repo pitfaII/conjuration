@@ -7,4 +7,4 @@
 #input()
 #print(driver.page_source)
 import requests
-print(requests.get('https://skidcrew.lol/style.css').text)
+print(requests.get('https://doxbin.com/upload/Boulman').text)
